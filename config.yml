@@ -23,35 +23,26 @@ theme:
 # Configuración Central
 main:
   title: Juan Vargas # Aca podes poner tu nombre o el de tu producto
-
 # Lista de bloques
 blocks:
   # Estos bloques los podes editar cambiando SOLO el texto que está en blanco
   # Sacale 
 
-  - title: Instagram
-    icon: instagram
-    url: https://www.instagram.com/rootweiller
+ - title: Instagram
+   icon: instagram
+   url: https://www.instagram.com/rootweiller/
 
  - title: Twitter
    icon: twitter
-   url: https://twitter.com/R00tweiller
-
+   url: https://twitter.com/r00tweiller
+    
  - title: LinkedIn # Este es el nombre del botón
    icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
-   url: https://linkedin.com/in/TU-USUARIO # Link a donde redireccionará al hacer click
+   url: https://www.linkedin.com/in/rootweiller/ # Link a donde redireccionará al hacer click
 
  - title: Github
    icon: github
    url: https://github.com/rootweiller
-
- - title: Sitio Web
-   icon: url
-   url: https://rootweillerdev.wordpress.com
-
- - title: Telegram
-   icon: telegram
-   url: https://t.me/rootweiller
     
 # Guardá el archivo haciendo click en Commit Changes, abajo
 # Volvé a las instrucciones
